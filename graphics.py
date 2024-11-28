@@ -15,7 +15,6 @@ class Line:
                            self.point2.x, self.point2.y, 
                            fill = fill_color, width = 2)
 
-
 class Window:
     def __init__(self, width, height):
         self.root = Tk()
